@@ -46,26 +46,27 @@ public class App {
 
        //if number1 and number2 are equal
 
-       int number1 = 9;
-       int number2 = 9;
+    //    int number1 = 9;
+    //    int number2 = 9;
 
-          if (number1 == number2) {
-          System.out.println("number1 is equal to number2");
-          }
+    //       if (number1 == number2) {
+    //       System.out.println("number1 is equal to number2");
+    //       }
 
          
+         
 
+    int number1 = 15;
+    int number2 = 20;
 
          //Test if number1 is NOT equal to number2
 
-         // if(number1 != number2){
+         if(number1 != number2){
 
-         //    System.out.println("number1 is not equal to number2");
-         // }
+            System.out.println("number1 is not equal to number2");
+         }
 
-         // else{
-         //    System.out.println("may be number1 is equal to number2");
-         // }
+         
    
    // Three variables numbers
 
