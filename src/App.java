@@ -56,32 +56,32 @@ public class App {
          
          
 
-    int number1 = 15;
-    int number2 = 20;
+    // int number1 = 15;
+    // int number2 = 20;
 
-         //Test if number1 is NOT equal to number2
+    //      //Test if number1 is NOT equal to number2
 
-         if(number1 != number2){
+    //      if(number1 != number2){
 
-            System.out.println("number1 is not equal to number2");
-         }
+    //         System.out.println("number1 is not equal to number2");
+    //      }
 
          
    
    // Three variables numbers
 
-   // int number1 = 10;
-   // int number2 = 4;
-   // int number3 = 5;
+   int number1 = 10;
+   int number2 = 4;
+   int number3 = 5;
 
-   //if all numbers are equal
+   //if all numbers are not equal
 
-   // if (number1 == number2 && number2 == number3){
-   //   System.out.println("All numbers are equal");
-   // }
-   // else if(number1 == number2 && number2 != number3);{
-   //    System.out.println("All numbers may not be equal");
-   // }
+   if (number1 == number2 && number2 == number3){
+     System.out.println("All numbers are equal");
+   }
+   else if(number1 != number2 && number2 != number3);{
+      System.out.println("All numbers are not equal");
+   }
 
    
    //Test if number1 and number2 are equal OR number2 and number3 are equal
