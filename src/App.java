@@ -3,12 +3,12 @@ public class App {
         //number1 is greater than number2
 
 
-     int number1 = 9;
-    int number2 = 5;
+    //  int number1 = 9;
+    // int number2 = 5;
 
-    if (number1 > number2) {
-        System.out.println("number1 is greater than number2");
-    }
+    // if (number1 > number2) {
+    //     System.out.println("number1 is greater than number2");
+    // }
 
    //  else if(number1 < number2){
    //    System.out.println("number1 is not greater than number2");
@@ -28,20 +28,20 @@ public class App {
 
     //Changing variables value
 
-   //  int number1 = 15;
-   //  int number2 = 10;
+    int number1 = 15;
+    int number2 = 10;
 
-   //  if(number1 == number2){
-   //    System.out.println("number1 is equal to number2");
-   //  }
+    if(number1 == number2){
+      System.out.println("number1 is equal to number2");
+    }
 
-   //  else if(number1 < number2){
-   //    System.out.println("number1 is smaller than number2");
-   //  }
+    else if(number1 < number2){
+      System.out.println("number1 is smaller than number2");
+    }
 
-   //  else {
-   //    System.out.println("number1 is greater or equal to number2");
-   //  }
+    else {
+      System.out.println("number1 is greater than number2");
+    }
 
 
        //if number1 and number2 is not equal
